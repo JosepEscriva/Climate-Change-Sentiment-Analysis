@@ -3,6 +3,7 @@ This is a tweet sentiment analysis exercise.
 
 This project is using this dataset from Kaggle: https://www.kaggle.com/datasets/thedevastator/social-media-sentiment-and-climate-change
 
+## Sentiment analysis distribution in positive, negative and neutral tweets.
 <img width="781" alt="image" src="https://github.com/user-attachments/assets/17827197-3780-4f67-9d6c-d18e7662dc3c" />
 Sentiment Distribution (%):
 sentiment
@@ -10,8 +11,10 @@ negative    36.137570
 positive    33.504818
 neutral     30.357612
 
+Top tweet 10 publisher
 <img width="798" alt="image" src="https://github.com/user-attachments/assets/d991ca0e-b26a-42f9-8be3-188369f82c2e" />
 
+## Wordclouds of the sentiment distribution
 <img width="806" alt="image" src="https://github.com/user-attachments/assets/fa3a1f34-09f7-4ea6-aec2-fc6a1c2526bd" />
 
 ## Sample Tweets for Positive Sentiment:
