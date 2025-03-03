@@ -1,7 +1,7 @@
 # Climate-Change-Sentiment-Analysis
-This is a tweet sentiment analysis exercise.
+This tweet sentiment analysis exercise uses the VADER library and Google translator API.
 
-This project is using this dataset from Kaggle: https://www.kaggle.com/datasets/thedevastator/social-media-sentiment-and-climate-change
+This project uses this dataset from Kaggle: https://www.kaggle.com/datasets/thedevastator/social-media-sentiment-and-climate-change
 
 ## Sentiment analysis distribution in positive, negative and neutral tweets.
 <img width="781" alt="image" src="https://github.com/user-attachments/assets/17827197-3780-4f67-9d6c-d18e7662dc3c" />
